@@ -19,7 +19,6 @@ It generates a SNAPSHO.jar_ in the `target` directory.
 You can view the result in localhost:8080/assests/ url
 
 
-
 ![Demo](pictures/vertx.jpg)
 
 - [Blog post](http://www.igfasouza.com/blog/raspberry-pi-vert-x-web-potentiometer/)
