@@ -4,15 +4,15 @@ This project is a Vert.X web Example CRUD App with REST endpoints to use as a Po
 
 ## Running the Project
 
-'''
+```
 mvn compile vertex:run
-'''
+```
 
 ## Building the project
 
-'''
+```
 mvn clean package
-'''
+```
 
 It generates a SNAPSHO.jar_ in the `target` directory.
 
